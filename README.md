@@ -1,2 +1,2 @@
 # Curso-Python
-Tutorial de Github de Python para inovação cívica
+Códigos de uso e treino do curso de Python para Inovação Cívica da Escola de Dados
